@@ -6,3 +6,4 @@
 	-In the object use the Number() method to convert the dog age from string to number
 -HINT the console must accept the following dog.age and don't forget to use string templates!
 -Push the code to the same HW repo please and don't create another one. 
+thanks
